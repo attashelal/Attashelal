@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Attashelal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- مرحباً، أنا أتاشيل
+- أنا مهتم بـ...
+- أنا أتعلم حالياً
+- أنا أتطلع إلى التعاون على...
+- كيف تصل إليّ...
 
 <!---
-Attashelal/Attashelal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+(باتاس) هو مستودع خاص لأن (هذا الملف) يظهر على ملفاتك الخاصة.
+يمكنك النقر على وصلة بريبري لإلقاء نظرة على تغيرتك
 --->
